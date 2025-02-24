@@ -1,2 +1,2 @@
-nombre = "centro de enseñanza tecnica industrial".upper()
+nombre = "cEntRo de enSeñAnza tEcnIca inDuStRiAl".lower()
 print(nombre)
