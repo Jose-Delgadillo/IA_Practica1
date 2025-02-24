@@ -1,2 +1,2 @@
-operacion = (15 - 4) * 3 / 12 + 8
-print("Resultado: " , operacion)
+suma = 20 + 23 + 44
+print(suma)
