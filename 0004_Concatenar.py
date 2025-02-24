@@ -1,4 +1,3 @@
-Nombres = "José de Jesús"
-Apellidos = "Delgadillo Leal"
-Nombre_Completo = Nombres + ' ' + Apellidos
-print(Nombre_Completo)
+Num1 = 10
+Num2 = 24
+print(Num1,Num2)
