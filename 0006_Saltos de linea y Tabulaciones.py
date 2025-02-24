@@ -1,1 +1,1 @@
-print("Centro\nDe\nEnseñanza\nTecnica\nIndustrial")
+print("La escuela es:\n\tCentro\n\tDe\n\tEnseñanza\n\tTecnica\n\tIndustrial")
