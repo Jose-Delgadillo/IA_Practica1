@@ -1,2 +1,2 @@
-nombre = "centro de enseñanza tecnica industrial".title()
-print(nombre)
+nombre = "centro de enseñanza tecnica industrial"
+print(nombre.title())
