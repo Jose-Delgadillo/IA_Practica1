@@ -1,2 +1,2 @@
-nombre = "enrique barros fernández".title()
+nombre = "Esta Es Una Frase Para Ser Formateada.".lower()
 print(nombre)
