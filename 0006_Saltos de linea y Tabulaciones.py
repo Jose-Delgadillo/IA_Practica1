@@ -1,1 +1,1 @@
-print("La escuela es:\n\tCentro\n\tDe\n\tEnseñanza\n\tTecnica\n\tIndustrial")
+print("Lenguajes de programacion:\n\n-Python.\n\n-JavaScript.\n\n-Java.\n\n-PHP.\n\n-TypeScripn.\n\n-SQL.\n\n-COBOL.\n\n-Brainfuck.\n\n-ArnoldC.")
