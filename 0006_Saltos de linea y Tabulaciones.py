@@ -1,0 +1,5 @@
+print("Python")
+print("JavaScript")
+print("Java")
+print("PHP")
+print("TypeScript")
