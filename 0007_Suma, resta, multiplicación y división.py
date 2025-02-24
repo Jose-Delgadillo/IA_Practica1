@@ -1,2 +1,2 @@
-suma = 20 + 23 + 44
-print(suma)
+resta = 20 - 23 - 44 - 40
+print(resta)
