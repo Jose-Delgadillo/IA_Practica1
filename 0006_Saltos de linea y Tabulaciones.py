@@ -1,5 +1,1 @@
-print("Python")
-print("JavaScript")
-print("Java")
-print("PHP")
-print("TypeScript")
+print("Centro\nDe\nEnseñanza\nTecnica\nIndustrial")
