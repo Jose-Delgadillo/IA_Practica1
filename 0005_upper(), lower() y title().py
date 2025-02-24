@@ -1,2 +1,2 @@
-nombre = "cEntRo de enSeñAnza tEcnIca inDuStRiAl".lower()
+nombre = "enrique barros fernández".title()
 print(nombre)
