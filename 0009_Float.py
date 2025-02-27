@@ -1,3 +1,3 @@
-num1 = 12.78
+num1 = 21.42
 num2 = 32.5518
-print(num1+num2)
+print(round(num1+num2,2))
