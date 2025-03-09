@@ -1,3 +1,3 @@
-colores = ['rojo', 'azul', 'verde', 'amarillo']
-almacena_valor = colores.pop(0)
-print('El color eliminado y almacenado es:',  almacena_valor)
+colores = ['rojo', 'azul', 'verde', 'amarillo', 'marrón', 'lila', 'negro', 'rosa', 'blanco', 'naranja']
+lista = colores.pop(1)+" y "+colores.pop(-2)
+print("Los colores guardados en la lista son: ",lista)
